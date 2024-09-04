@@ -26,7 +26,7 @@ public final class ACBrBoleto extends ACBrLibBase {
         ACBrBoletoLib.INSTANCE.Boleto_LimparLista();
         ACBrBoletoLib.INSTANCE.Boleto_ConfigurarDados(CEDENTE_INI);
         ACBrBoletoLib.INSTANCE.Boleto_IncluirTitulos(TITULO_INI, "P");
-        ACBrBoletoLib.INSTANCE.Boleto_SetDiretorioArquivo(DIRETORIO, "arquivo.pdf");
+        ACBrBoletoLib.INSTANCE.Boleto_SetDiretorioArquivo(DIRETORIO, "acbrBodelo.pdf");
         ACBrBoletoLib.INSTANCE.Boleto_GerarPDF();
     }
 

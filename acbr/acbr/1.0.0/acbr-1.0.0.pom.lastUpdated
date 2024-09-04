@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Tue Aug 13 20:06:51 BRT 2024
-@default-produtec-repository-http\://repo.produtec.com.br/repo/.lastUpdated=1723590411485
-http\://repo.produtec.com.br/repo/.error=Could not transfer artifact br.com.acbr\:acbr\:pom\:1.0.0 from/to produtec-repository (http\://repo.produtec.com.br/repo)\: Connect to repo.produtec.com.br\:80 [repo.produtec.com.br/18.215.4.135, repo.produtec.com.br/64\:ff9b\:0\:0\:0\:0\:12d7\:487] failed\: Connect timed out
-https\://maven-central.storage.googleapis.com/maven2/.error=
-https\://maven-central.storage.googleapis.com/maven2/.lastUpdated=1723590391311
